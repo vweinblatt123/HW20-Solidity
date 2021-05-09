@@ -1,7 +1,10 @@
 # HW20 - Solidity
 
-https://ropsten.etherscan.io/tx/0xf00274ff4afa715c22dd19ac2a3f879a11ee9e3e0afcd5c0994f83e1820e3d57
+The three contracts work to distribute profits or equity shares across employee(s): equal profits across employees in contract 1, tiered profits across employees in contract 2, and vested equity shares to one employee in contract 3. I have provided gifs walking through all three contracts and they can further be interacted with on the Ropsten Testnet by clicking the following links:
 
-https://ropsten.etherscan.io/tx/0x608ff43bbfc6f7ed0ac7e9f96d0d6eaf2564511d640058b8a24ec33934f31ca1
+https://ropsten.etherscan.io/address/0x48b889c367cf11aa83a85c1040e4cfe3b36c5e1b
 
-https://ropsten.etherscan.io/tx/0xa342153f7e8ded66589d9c0f40d543dd4c6b6bdfdbb63badc7134a8f26eb2aea
+https://ropsten.etherscan.io/address/0xc1dc249ce364f6325ba926d3e078ca311eb29d12
+
+https://ropsten.etherscan.io/address/0x3f9e397b5660e3c43ac5797f4daaaa56a15312fe
+
